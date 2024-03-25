@@ -1,0 +1,5 @@
+*.pyc
+*.sqlite3
+.vscode
+__pycache__/
+settings_dev.py
